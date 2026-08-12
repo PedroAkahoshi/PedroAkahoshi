@@ -2,7 +2,7 @@
 
 <p align="center">
   🔭 Atualmente trabalho com <strong>Suporte de TI</strong><br>
-  🌱 Estudando <strong>Python</strong> e <strong>Segurança Cibernética</strong>
+  🌱 Estudando <strong>Segurança Cibernética</strong>
 </p>
 
 <div align="center">
