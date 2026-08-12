@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
-  <a href="mailto:pedroak4858@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedroak4858@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
